@@ -1,3 +1,5 @@
+# The original work is credited to https://github.com/ed-donner/agentic/blob/main/workshop/agent2.ipynb
+
 from typing import Optional
 from transformers import AutoTokenizer
 from sentence_transformers import SentenceTransformer
